@@ -1,0 +1,29 @@
+<html>
+<title>Contact us</title>
+<head>
+<body bgcolor="cyan">
+<h2><font face="Arial" color="grey" ></h2>
+<p>Address</p>
+</font>
+PGKM School
+Haribhai Desai Vidyadham,
+63/2, Kondhwa, Pune 411048
+<h2><font face="Arial" color="grey" ></h2>
+<p>Contact Us
+School reception</p>
+</font>
++91 8983765998
++91 9096028998
++91 8983745998
+<h2><font face="Arial" color="grey" ></h2>
+<p>For Admissions</p>
+</font>
++91 9130998998
++91 9096128998
+<h2><font face="Arial" color="grey" ></h2>
+<p>E-mail</p>
+</font>
+gurukul@pgkmschool.org
+</body>
+</html>
+

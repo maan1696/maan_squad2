@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>Book My show</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+    </main>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookMyShow</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <header>
+        <h1>BookMyShow</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="C:\Users\Student\Desktop\Swarang\Movies.html">Movies</a></li>
+                <li><a href="C:\Users\Student\Desktop\Swarang\theatre.html">Theatres</a></li>
+                <li><a href="C:\Users\Student\Desktop\Swarang\accounts2.html">Account</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to BookMyShow</h2>
+        <p>Your one-stop shop for movies and entertainment.</p>
+    </section>
+
+    <section id="movies">
+        <h2>Offers and Shows</h2>
+        <div class="movie-card">
+<marquee direction="left" width="1825" height="500" bgcolor="cyan" behavior="scroll">
+            <img src="https://assets-in.bmscdn.com/promotions/cms/creatives/1726036566435_playcardnewweb.jpg" width="750" height="500">
+         <img src="https://assets-in.bmscdn.com/promotions/cms/creatives/1733911700713_edwebgeneralsales.jpg" width="750" height="500">
+<img src="https://assets-in.bmscdn.com/promotions/cms/creatives/1734087227425_ajayatulliveweb.jpg" width="750" height="500">
+<img src="https://assets-in.bmscdn.com/promotions/cms/creatives/1733493392223_7declop1240x300.jpg" width="750" height="500">
+        </div>
+        </section>
+</marquee>
+    <section id="theatres">
+        <h2>Theatres Near You</h2>
+        <ul>
+            <li>City Pride</li>
+            <li>Inox</li>
+            <li>PVR</li>
+        </ul>
+    </section>
+
+
+
+    <footer>
+        <p>© 2023 BookMyShow</p>
+    </footer>
+</body>
+</html>
+

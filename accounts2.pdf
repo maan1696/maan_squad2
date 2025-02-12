@@ -1,0 +1,19 @@
+<html>
+<head><title>Admission</title></head>
+<body bgcolor="cyan">
+<h1>Login and Registration</h1>
+<form action="mailto:swarang_mahajan_28823@pgkmschool.org method="post" >
+<p><Label for="Name">Name:</label>
+<INPUT id="Name" type="text"><br>
+<p><Label for="Email">Email:</label>
+<INPUT id="Email" type="text"><br>
+<p><Label for="Surname Name">Surname Name:</label>
+<INPUT id="Surname Name" type="text"><br>
+<p><Label for="Mobile No">Mobile No:</label>
+<INPUT id="Mobile No" type="text"><br>
+<p><Label for="Prefered Theatre">Prefered Theatre:</label>
+<INPUT id="Prefered Theatre" type="text"><br>
+</p>
+</form>
+</body>
+</html>

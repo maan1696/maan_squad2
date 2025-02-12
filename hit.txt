@@ -1,0 +1,7 @@
+<himl>
+<title><Quiz</title>
+<head>
+<body>
+<h1>Quiz</h1>
+<p><strong>question1></strong> what  is  capital  of  France  ?</p>
+<input  type="radio"                                                                                                                                                                                                                                                                                                           

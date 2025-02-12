@@ -1,0 +1,23 @@
+<html>
+<head><title>Admission Application Form (2025-26)</title></head>
+<body bgcolor="cyan">
+<h1>Use of form</h1>
+<form >
+Enter your name <input type="text" Name="n1"
+maxlength="20"><Br>
+Enter your standard : 
+<input type ="radio" name="r1"
+value="6"> 6<sup>th</sup>
+<input type ="radio" name="r1"
+value="7"> 7<sup>th</sup>
+<input type="radio" name="r1" value="8">8<sup>th
+</sup><br> Choose your hobbies : <br>
+<input type="checkbox" name="c1"
+Value="Web Designing">Web Designing<br>
+<input type="checkbox" name="c2"
+Value="German">German<br>
+<input type="checkbox" name="c3"
+Value="Robotics">Robotics<br>
+<input type="checkbox" name="c4" Value="Guitar">Guitar<br>
+<input type="submit" value="Submit"><br>
+</form></body></html>
